@@ -6,7 +6,10 @@ system:
     - com.logseq.Logseq
     - md.obsidian.Obsidian
     - org.claws_mail.Claws-Mail
+    - org.gnome.Evince
+    - org.localsend.localsend_app
     - org.mozilla.firefox
     - org.videolan.VLC
+    - org.wezfurlong.wezterm
   remove:
     # nothing
