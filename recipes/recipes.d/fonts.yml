@@ -1,0 +1,12 @@
+---
+type: fonts
+fonts:
+  nerd-fonts:
+    - FiraCode
+    - SourceCodePro
+  google-fonts:
+    - Noto Sans
+    - Noto Sans Display
+    - Noto Sans Mono
+    - Noto Serif
+    - Open Sans
