@@ -26,6 +26,7 @@ install:
   #- sublime-text
   #- sublime-merge
   - syncthing
+  - tilix
   - tmux
   - virt-install
   - virt-manager
