@@ -4,6 +4,8 @@ repos:
   - https://download.sublimetext.com/rpm/stable/x86_64/sublime-text.repo
 install:
   - alacritty
+  - firewall-config
+  - fzf
   - gnome-keyring
   - htop
   - iftop
@@ -11,11 +13,25 @@ install:
   - mc
   - neovim
   - neovim-qt
+  - podman-compose
+  - qemu
+  - qemu-char-spice
+  - qemu-device-display-virtio-gpu
+  - qemu-device-display-virtio-vga
+  - qemu-device-usb-redirect
+  - qemu-img
+  - qemu-system-x86-core
+  - qemu-user-binfmt
+  - qemu-user-static
   #- sublime-text
   #- sublime-merge
   - syncthing
   - tmux
+  - virt-install
+  - virt-manager
+  - virt-viewer
   - wireguard-tools
+  - wl-clipboard
   - wob
   - wofi
 remove:
