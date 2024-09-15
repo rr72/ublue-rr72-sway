@@ -11,6 +11,5 @@ system:
     - org.gnome.Evince
     - org.localsend.localsend_app
     - org.videolan.VLC
-    - org.wezfurlong.wezterm
   remove:
     # nothing
