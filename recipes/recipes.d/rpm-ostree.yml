@@ -23,8 +23,6 @@ install:
   - qemu-system-x86-core
   - qemu-user-binfmt
   - qemu-user-static
-  #- sublime-text
-  #- sublime-merge
   - syncthing
   - tilix
   - tmux
