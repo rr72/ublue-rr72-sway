@@ -41,5 +41,6 @@ install:
   - wob
   - wofi
 remove:
+  - foot
   - rofi-wayland
   - rofi-themes
