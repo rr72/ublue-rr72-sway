@@ -10,6 +10,7 @@ install:
   - gnome-software
   - htop
   - iftop
+  - keepassxc
   - kitty
   - kitty-doc
   - kitty-kitten
