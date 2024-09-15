@@ -5,6 +5,7 @@ system:
   install:
     - com.logseq.Logseq
     - com.spotify.Client
+    - io.github.flattool.Warehouse
     - md.obsidian.Obsidian
     - org.claws_mail.Claws-Mail
     - org.gnome.Evince
