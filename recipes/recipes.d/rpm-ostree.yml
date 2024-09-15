@@ -10,6 +10,11 @@ install:
   - gnome-software
   - htop
   - iftop
+  - kitty
+  - kitty-doc
+  - kitty-kitten
+  - kitty-shell-integration
+  - kitty-terminfo
   - light
   - mc
   - neovim
