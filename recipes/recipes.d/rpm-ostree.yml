@@ -9,6 +9,7 @@ install:
   - gnome-keyring
   - gnome-software
   - htop
+  - icat
   - iftop
   - keepassxc
   - kitty
