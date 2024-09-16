@@ -1,15 +1,17 @@
 ---
 type: default-flatpaks
+
 notify: true # Send notification after install/uninstall is finished (true/false)
+
 system:
   install:
     - com.logseq.Logseq
     - com.spotify.Client
     - io.github.flattool.Warehouse
-    - md.obsidian.Obsidian
     - org.claws_mail.Claws-Mail
     - org.gnome.Evince
     - org.localsend.localsend_app
     - org.videolan.VLC
+
   remove:
     # nothing
