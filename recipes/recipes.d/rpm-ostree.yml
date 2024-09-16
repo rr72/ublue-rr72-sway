@@ -4,7 +4,6 @@ repos:
   - https://download.sublimetext.com/rpm/stable/x86_64/sublime-text.repo
 install:
   - alacritty
-  - firewall-config
   - fzf
   - gnome-keyring
   - gnome-software
@@ -34,6 +33,7 @@ install:
   - syncthing
   - tilix
   - tmux
+  - ufw
   - virt-install
   - virt-manager
   - virt-viewer
@@ -43,6 +43,8 @@ install:
   - wob
   - wofi
 remove:
+  - firewalld-filesystem
+  - firewalld
   - foot
   - rofi-wayland
   - rofi-themes
