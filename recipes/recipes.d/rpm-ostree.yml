@@ -6,6 +6,7 @@ repos:
 
 install:
   - alacritty
+  - bat
   - fzf
   - gnome-keyring
   - gnome-software
