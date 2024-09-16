@@ -1,7 +1,9 @@
 ---
 type: rpm-ostree
+
 repos:
   - https://download.sublimetext.com/rpm/stable/x86_64/sublime-text.repo
+
 install:
   - alacritty
   - fzf
@@ -42,6 +44,7 @@ install:
   - wl-clipboard
   - wob
   - wofi
+
 remove:
   - firewalld-filesystem
   - firewalld
