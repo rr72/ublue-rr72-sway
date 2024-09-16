@@ -14,5 +14,3 @@ modules:
   - from-file: recipes.d/default-flatpaks.yml
 
   - type: signing
-
-# Fonts: google-droid-fonts-all
