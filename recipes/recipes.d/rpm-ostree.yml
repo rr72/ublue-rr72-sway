@@ -20,6 +20,7 @@ install:
   - kitty-shell-integration
   - kitty-terminfo
   - light
+  - luarocks
   - mc
   - neovim
   - neovim-qt
