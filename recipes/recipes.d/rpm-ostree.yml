@@ -46,6 +46,7 @@ install:
   - wl-clipboard
   - wob
   - wofi
+  - wol
 
 remove:
   - firewalld-filesystem
