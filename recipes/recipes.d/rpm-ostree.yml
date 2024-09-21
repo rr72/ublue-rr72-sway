@@ -26,6 +26,7 @@ install:
   - neovim
   - neovim-qt
   - podman-compose
+  - pwgen
   - qemu
   - qemu-char-spice
   - qemu-device-display-virtio-gpu
