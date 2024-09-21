@@ -6,6 +6,7 @@ repos:
 
 install:
   - alacritty
+  - autojump
   - bat
   - fzf
   - gnome-keyring
