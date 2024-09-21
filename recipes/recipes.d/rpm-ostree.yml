@@ -34,6 +34,7 @@ install:
   - qemu-system-x86-core
   - qemu-user-binfmt
   - qemu-user-static
+  - ranger
   - syncthing
   - tilix
   - tmux
