@@ -8,6 +8,7 @@ system:
     - com.logseq.Logseq
     - com.spotify.Client
     - io.github.flattool.Warehouse
+    - org.chromium.Chromium
     - org.claws_mail.Claws-Mail
     - org.gnome.Evince
     - org.localsend.localsend_app
