@@ -25,6 +25,7 @@ install:
   - mc
   - neovim
   - neovim-qt
+  - NetworkManager-tui
   - podman-compose
   - pwgen
   - qemu
