@@ -55,5 +55,17 @@ remove:
   - firewalld-filesystem
   - firewalld
   - foot
+  - NetworkManager-l2tp
+  - NetworkManager-l2tp-gnome
+  - NetworkManager-libreswan
+  - NetworkManager-libreswan-gnome
+  - NetworkManager-openconnect
+  - NetworkManager-openconnect-gnome
+  - NetworkManager-pptp
+  - NetworkManager-pptp-gnome
+  - NetworkManager-sstp
+  - NetworkManager-sstp-gnome
+  - NetworkManager-vpnc
+  - NetworkManager-vpnc-gnome
   - rofi-wayland
   - rofi-themes
