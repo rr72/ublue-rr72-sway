@@ -8,6 +8,7 @@ install:
   - alacritty
   - autojump
   - bat
+  - btop
   - fzf
   - gnome-keyring
   - gnome-software
