@@ -72,3 +72,4 @@ remove:
   - NetworkManager-vpnc-gnome
   - rofi-wayland
   - rofi-themes
+  - virtualbox-guest-additions
