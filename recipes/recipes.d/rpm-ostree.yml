@@ -12,6 +12,8 @@ install:
   - fzf
   - gnome-keyring
   - gnome-software
+  - gopass
+  - gopass-jsonapi
   - htop
   - icat
   - iftop
