@@ -10,6 +10,7 @@ install:
   - bat
   - brightnessctl
   - btop
+  - ddcutil
   - fzf
   - gnome-keyring
   - gnome-software
