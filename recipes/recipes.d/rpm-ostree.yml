@@ -52,6 +52,7 @@ install:
   - wdisplays
   - wireguard-tools
   - wl-clipboard
+  - wlogout
   - wob
   - wofi
   - wol
