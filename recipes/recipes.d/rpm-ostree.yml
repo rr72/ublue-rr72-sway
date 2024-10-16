@@ -8,6 +8,7 @@ install:
   - alacritty
   - autojump
   - bat
+  - brightnessctl
   - btop
   - fzf
   - gnome-keyring
@@ -24,7 +25,6 @@ install:
   - kitty-kitten
   - kitty-shell-integration
   - kitty-terminfo
-  - light
   - luarocks
   - mc
   - neovim
