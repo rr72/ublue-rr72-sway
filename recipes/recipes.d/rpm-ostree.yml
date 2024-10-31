@@ -12,6 +12,9 @@ install:
   - btop
   - crun
   - ddcutil
+  - freeipa-client
+  - freeipa-client-epn
+  - freeipa-client-samba
   - fzf
   - gnome-keyring
   - gnome-software
@@ -58,6 +61,7 @@ install:
   - wob
   - wofi
   - wol
+
 
 remove:
   - firewalld-filesystem
