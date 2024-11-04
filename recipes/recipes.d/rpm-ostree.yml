@@ -35,6 +35,7 @@ install:
   - neovim
   - neovim-qt
   - NetworkManager-tui
+  - nextcloud-client
   - podman-compose
   - pwgen
   - qemu
