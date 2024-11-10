@@ -1,0 +1,56 @@
+---
+type: rpm-ostree
+
+install:
+  - bat
+  - brightnessctl
+  - btop
+  - crun
+  - ddcutil
+  - freeipa-client
+  - freeipa-client-epn
+  - freeipa-client-samba
+  - fzf
+  - gnome-keyring
+  - gnome-software
+  - htop
+  - icat
+  - iftop
+  - iotop-c
+  - keepassxc
+  - kitty
+  - kitty-doc
+  - kitty-kitten
+  - kitty-shell-integration
+  - kitty-terminfo
+  - luarocks
+  - mc
+  - neovim
+  - neovim-qt
+  - NetworkManager-tui
+  - nextcloud-client
+  - podman-compose
+  - pwgen
+  - ranger
+  - syncthing
+  - tmux
+  - ufw
+  - virt-viewer
+  - wdisplays
+  - wireguard-tools
+  - wl-clipboard
+  - wlogout
+  - wob
+  - wol
+
+
+remove:
+  - NetworkManager-adsl
+  - NetworkManager-openconnect
+  - NetworkManager-openconnect-gnome
+  - NetworkManager-pptp
+  - NetworkManager-pptp-gnome
+  - NetworkManager-vpnc
+  - NetworkManager-vpnc-gnome
+  - tailscale
+  - virtualbox-guest-additions
