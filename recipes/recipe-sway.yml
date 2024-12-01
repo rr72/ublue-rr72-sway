@@ -11,6 +11,7 @@ modules:
   - from-file: recipes.d/files.yml
   - from-file: recipes.d/fonts.yml
   - from-file: recipes.d/rpm-ostree-sway.yml
+  - from-file: recipes.d/rpm-ostree-devel.yml
   - from-file: recipes.d/default-flatpaks.yml
 
   - type: signing
