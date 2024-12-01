@@ -4,8 +4,9 @@ type: default-flatpaks
 notify: true # Send notification after install/uninstall is finished (true/false)
 
 system:
+  repo-url: https://dl.flathub.org/repo/flathub.flatpakrepo
+  repo-name: flathub
   install:
-    - com.logseq.Logseq
     - com.spotify.Client
     - io.github.flattool.Warehouse
     - org.chromium.Chromium
@@ -16,3 +17,11 @@ system:
 
   remove:
     # nothing
+
+# A flatpak repo can also be added without having to install flatpaks,
+# as long as one of the repo- fields is present
+user:
+  repo-url: https://dl.flathub.org/repo/flathub.flatpakrepo
+  repo-name: flathub
+  install:
+    - com.logseq.Logseq
